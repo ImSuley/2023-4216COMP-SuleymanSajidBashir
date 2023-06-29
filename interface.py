@@ -60,6 +60,5 @@ while True:
              plt.title('Age Distribution by Wealth How Industry')
              plt.xticks(rotation=45)
              plt.show()
-    elseif: print (f"Try Again")
-    break
+         break
             
