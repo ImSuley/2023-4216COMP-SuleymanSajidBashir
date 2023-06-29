@@ -431,7 +431,7 @@ Gerard Wertheimer,141,2014,1909,Chanel,relation,luxury goods,new,63,male,France,
 Silvio Berlusconi,141,2014,1978,Fininvest,founder,media,new,77,male,Italy,ITA,0.00 ,Europe,privatized and resources,9,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Vladimir Yevtushenkov,141,2014,1993,Sistema/Sitronics,Chairman/founder,technology,new,65,male,Russia,RUS,0.00 ,Europe,privatized and resources,9,Non-Traded Sectors,TRUE,Media,not inherited,TRUE,TRUE
 Ernesto Bertarelli,142,1996,1906,Serono,relation,pharmaceuticals,new,30,male,Switzerland,CHE,330000000000.00 ,Europe,inherited,2.5,New Sectors,TRUE,Technology-Medical,3rd generation,TRUE,TRUE
-Banyong Lamsam,143,1996,1945,Kasikornbank,relation,banking,new,0,male,Thailand,THA,182000000000.00 ,East Asia,inherited,2.5,Financial,TRUE,Money Management,not inherited,TRUE,TRUE
+Banyong Lamsam,143,1996,1945,Kasikornbank,relation,banking,new,0,male,Thailand,THA,182000000000.00 ,East Asia,inherited,2.5,Financial,TRUE,Money Management,noot inherited,TRUE,TRUE
 George Soros,144,1996,1969,Soros Fund Management,founder,hedge funds,new,65,male,United States,USA,8100000000000.00 ,North America,self-made finance,2.5,Financial,TRUE,Hedge funds,not inherited,TRUE,TRUE
 Abigail Johnson,145,1996,1946,Fidelity Investments,relation,investment banking,new,34,female,United States,USA,8100000000000.00 ,North America,inherited,2.5,Financial,TRUE,Money Management,3rd generation,TRUE,TRUE
 Jon Huntsman,146,1996,1982,Huntsman chemical,founder,chemicals,new,58,male,United States,USA,8100000000000.00 ,North America,founder non-finance,2.5,Traded Sectors,TRUE,Non-consumer industrial,not inherited,TRUE,TRUE

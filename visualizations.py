@@ -1,7 +1,7 @@
 
 import numpy as np 
 import pandas as pd 
-import matplotlib.pyplot as plt        #importing my libaries
+import matplotlib.pyplot as plt        #importing my libaries.
 import plotly.express as px
 import plotly.io as pio
 
